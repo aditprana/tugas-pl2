@@ -2,6 +2,6 @@
 
 NPM: 14197041
 <br></br>
-Nama: Adit 
+Nama: Aditya Abdillah
 <br></br>
 Kelas: C
